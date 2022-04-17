@@ -1,4 +1,4 @@
-FROM python: 3.9
+FROM python: 3.9.0
 EXPOSE 8501
 
 cmd mkdir -p /app
